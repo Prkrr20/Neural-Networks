@@ -55,3 +55,6 @@ In | Out
 0, 1 | 0
 0, 0 | 1
 
+
+
+We were listening to some russian rap, and Parker started laughing. I asked why and he said "WHY THE FUCK IS HE SPEAKING MINECRAFT ENCHANTMENT TABLE???" i'm still laughing.
