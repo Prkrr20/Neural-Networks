@@ -1,9 +1,9 @@
-# Judgement-Day
+# My history of Neural Nets
 
 
 ### Entry 1 - 11/3/2020
 
-This is the story of a Neural Network. But this Neural Network. was created by Parker and myself, Cayde. Parker was a Freshman in highschool, and Cayde was a sophomore. The idea started out very simple: create something that could recognize text. We tried using a basic method from VSauce's "The Stilwell Brain" and tried using that.
+This Neural Network was created by Parker and myself, Cayde. Parker was a Freshman in highschool, and Cayde was a sophomore. The idea started out very simple: create something that could recognize text. We tried using a basic method from VSauce's "The Stilwell Brain" and tried using that.
 
 then we started to say, "What if we could do more..."
 
@@ -55,48 +55,6 @@ In | Out
 0, 1 | 0
 0, 0 | 1
 
-We were listening to some russian rap, and Parker started laughing. I asked why and he said "WHY THE FUCK IS HE SPEAKING MINECRAFT ENCHANTMENT TABLE???" I'm still laughing.
-
-Tomorrow we hope to start merging neural networks.
 
 
-### Entry 4 - 11/6/2020
-
-Today we take the next step. taking 2 (or more) neural network and merging them to create one that can give 2 (or more) outputs. here is our data set
-
-In | Out
------|---
-0, 0, 0 | 1, 0, 0
-0, 0, 1 | 1, 0, 0
-0, 0, 2 | 1, 0, 0
-0, 1, 0 | 0, 1, 0
-0, 1, 1 | 0, 1, 0
-0, 1, 2 | 0, 1, 0
-0, 2, 0 | 0, 0, 1
-0, 2, 1 | 0, 0, 1
-0, 2, 2 | 0, 0, 1
-1, 0, 0 | 1, 0, 0
-1, 0, 1 | 1, 0, 0
-1, 0, 2 | 1, 0, 0
-1, 1, 0 | 0, 1, 0
-1, 1, 1 | 0, 1, 0
-1, 1, 2 | 0, 1, 0
-1, 2, 0 | 0, 0, 1
-1, 2, 1 | 0, 0, 1
-1, 2, 2 | 0, 0, 1
-2, 0, 0 | 1, 0, 0
-2, 0, 1 | 1, 0, 0
-2, 0, 2 | 1, 0, 0
-2, 1, 0 | 0, 1, 0
-2, 1, 1 | 0, 1, 0
-2, 1, 2 | 0, 1, 0
-2, 2, 0 | 0, 0, 1
-2, 2, 1 | 0, 0, 1
-2, 2, 2 | 0, 0, 1
-
-We'll only be giving the neural network about 1/3 of the data and seeing if it can come up with the rest.
-
-First draft of this and it went horribly wrong. But thats to be expected. We'll try again.
-
-We hope to implement a hidden layer. We are not too sure of how this shit will work, we just hope it does.
-
+We were listening to some russian rap, and Parker started laughing. I asked why and he said "WHY THE FUCK IS HE SPEAKING MINECRAFT ENCHANTMENT TABLE???" i'm still laughing.
