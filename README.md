@@ -56,5 +56,10 @@ In | Out
 0, 0 | 1
 
 
+### Entry 4 - 11/1/2020
 
-We were listening to some russian rap, and Parker started laughing. I asked why and he said "WHY THE FUCK IS HE SPEAKING MINECRAFT ENCHANTMENT TABLE???" i'm still laughing.
+We missed a few entries, but now we're quarantined and production can resume. Parker is applying to software development jobs so we are trying to make this story look presentable as a porfolio. Parker's github is going to have more projects as time goes on
+
+As far as the NN goes, the next update we will hopefully convert to Cython and maybe even try out straight c++. Parker is an expert at python, but also programs in many other languages so we might as well try it out.
+
+As time goes on, I find myself getting more familiar with the Python syntax. Hands on learning really is the best way.
